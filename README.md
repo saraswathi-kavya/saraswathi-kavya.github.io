@@ -1,6 +1,6 @@
 # saraswathi-kavya.github.io
 
-Welcome to the repository for my professional portfolio website, hosted via GitHub Pages at [saraswathi.github.io](https://saraswathi.github.io).
+Welcome to the repository for my professional portfolio website, hosted via GitHub Pages at [saraswathi-kavya.github.io](https://saraswathi-kavya.github.io).
 
 This platform serves as a comprehensive digital resume showcasing my expertise, career milestones, and technical capabilities within the legal operations and contract management sectors.
 
